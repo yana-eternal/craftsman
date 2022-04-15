@@ -62,8 +62,11 @@ main {
   margin-bottom: 5px;
 }
 
-.blog-navigation a {
+ a {
   color: #ffffff;
+}
+a:hover {
+  color: #000000;
 }
 
 
@@ -78,7 +81,4 @@ main {
   line-height: 18px;
   color: #301919;
   background-color: #bbb6e0;
-}
-a:hover {
-  color: #000000;
 }
